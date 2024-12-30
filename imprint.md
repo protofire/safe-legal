@@ -1,4 +1,4 @@
-**Imprint & Disclaimer**
+# **Imprint & Disclaimer**
 
 **Contact Information**
 
