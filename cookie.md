@@ -1,74 +1,123 @@
+# **Privacy Policy**
+
+Last updated: October 23, 2026.
+
+## **1\. Who we are and what this Policy covers**
+
+This Privacy Policy explains how we process personal data when you use Protofire Multisig (the “App”) and when you contact our support. It does not cover third-party services you reach through the App (see section 4). Cookies and similar technologies are described in our Cookie Policy.
+
+The controller is Altoros LLC (dba Protofire), a limited liability company registered in Puerto Rico under company number 416164, with its registered office at 1607 Ponce de Leon Avenue, GM-06, San Juan, PR, 00909-1803 (“Protofire”, “we”, “us”). You can contact us at legal@protofire.io.
+
+Capitalized terms not defined here have the meaning given in our Terms and Conditions (the “Terms”).
+
+## **2\. Data we collect**
+
+We collect only what we need to run the App. We never receive your Private Keys or Recovery Phrase, and we do not ask for your name or email unless you contact us.
+
+We collect the following:
+
+* **Wallet and transaction data.** Your wallet and Safe Account addresses, the selected network, and the transaction details and signatures you submit through the App.  
+* **Technical data.** IP address, browser and device information, request details and timestamps, recorded in server logs.  
+* **Usage and error data.** Pages viewed, Safe Account and wallet addresses, network, device type, App version, the Safe Apps you use, and error reports, collected through analytics and error-monitoring tools.  
+* **Gas Sponsorship data.** If you use Gas Sponsorship: the addresses involved, network, fee token, transaction identifiers and the result of sanctions screening.  
+* **Support data.** If you contact us: your email address, a description of the issue, the page link, technical environment details, and optionally your name and screenshots. Please do not send us Private Keys or your Recovery Phrase.
+
+Wallet and transaction data are necessary to use the App; without it we cannot provide the App to you. If you contact support through our form, you must fill in the required fields, including your email address, for us to handle your request.
+
+## **3\. How and why we use data**
+
+We use personal data to provide and operate the App, including Gas Sponsorship, and to respond to your support requests. Where GDPR or UK GDPR applies, we rely on the performance of a contract with you (the Terms) and, for support requests, also on our legitimate interests in responding to you. 
+
+We also use personal data for our legitimate interests in keeping the App secure, preventing abuse, troubleshooting and monitoring errors, and in complying with the sanctions laws that apply to us and preventing illegal use of the App, including by screening Gas Sponsorship transactions.
+
+We use analytics data to understand and improve the App. Where GDPR or UK GDPR applies, we do this only with your consent (see our Cookie Policy), which you can withdraw at any time. Elsewhere, we rely on our legitimate interests. 
+
+We may show general announcements and offers in the App based on our legitimate interests. We may personalize offers using your personal data, or contact you directly, only with your consent, which you can withdraw at any time. 
+
+Gas Sponsorship requests are automatically checked against sanctions lists. If a screened address matches a list, the request is refused. You can ask us to review such a decision at legal@protofire.io.
+
+We do not sell your personal data or share it for advertising. 
+
+## **4\. Who receives your data**
+
+We share personal data only as needed, with:
+
+* **Service providers**, such as providers of hosting, network (RPC) access, wallet connection, analytics, error monitoring and support tools.  
+* **Third-party features and Safe Apps.** When you use a third-party feature embedded in the App or a Safe App, the provider receives the data needed to deliver it (for example, your wallet address and transaction parameters) and handles it under its own privacy policy. We are not responsible for it.  
+* **Authorities and advisers**, where required by law, for sanctions compliance, or to establish or defend legal claims.
+
+
+Transactions you make through the App are recorded on the Blockchain, which is public. We cannot alter or delete them. A wallet address is not your name, but it can be linked to you, for example through an exchange that knows who you are. 
+
+## **5\. International transfers**
+
+We are based in Puerto Rico. Our infrastructure is hosted mainly in the European Economic Area, and our service providers may process data in the United States and other countries. Where the law requires, we transfer personal data internationally only with appropriate safeguards, such as standard contractual clauses.
+
+## **6\. How long we keep data**
+
+We keep technical and server logs, including IP addresses, for up to 90 days, and support requests for up to 1 year after the request is closed. Sanctions screening records and the related transaction records are kept for up to 10 years, as required by sanctions record-keeping rules. 
+
+Analytics data is kept for up to 14 months. Error monitoring data is kept for up to 90 days. 
+
+We keep any other data only as long as needed for the purposes in this Policy or as required by law. Data recorded on the Blockchain is permanent.
+
+## **7\. Security**
+
+We use appropriate technical and organizational measures to protect personal data, including encryption in transit and access controls. No method of transmission or storage is completely secure. You remain responsible for securing your wallet, Private Keys and Recovery Phrase, as set out in the Terms.
+
+## **8\. Your rights**
+
+Depending on where you live (for example, in the EEA or the UK), you may have the right to access your personal data, have it corrected or deleted, restrict or object to its processing, receive it in a portable format, and withdraw consent where we rely on it. You may also lodge a complaint with your local data protection authority.
+
+To exercise your rights, contact us at [legal@protofire.io](mailto:legal@protofire.io). We may ask you to verify your identity, for example by signing a message with your wallet. We may be unable to delete data that we are legally required to keep. 
+
+Data recorded on the Blockchain, such as your wallet address and transactions, is public and by design cannot be changed or deleted, by us or anyone else. This limits your rights to erasure, restriction and objection for that data. We can only act on personal data held by us, and we cannot prevent third parties from processing data that is public on the Blockchain.
+
+## **9\. Children, changes and contact**
+
+The App is not intended for minors, and we do not knowingly collect their personal data. If you believe a minor has provided us with personal data, please contact us and we will delete it.
+
+We may update this Policy from time to time. The updated Policy will be published with a new “Last updated” date, accessible via the App or our website.
+
+Questions about this Policy: [legal@protofire.io](mailto:legal@protofire.io).
+
 # **Cookie Policy**
 
-Last updated: October 2024\.
+Last updated: October 23, 2026.
 
-For general web-browsing of this website, your personal data is not revealed to us, although certain statistical information is available to us via our internet service provider. We exclusively process your personal data in pseudonymised form.
+## **1\. About this Cookie Policy**
 
-This Cookie Policy applies to our website at [**${origin}**](${origin}) and sets out some further detail on how and why we use these technologies on our website.
+This Cookie Policy explains how Protofire Multisig (the “App”) uses cookies and similar technologies. It supplements our Privacy Policy, which explains how we process personal data more broadly.
 
-The terms “you” and “your” include our clients, business partners and users of this website.
+The controller is Altoros LLC (dba Protofire), registered in Puerto Rico (“Protofire”, “we”, “us”). You can contact us at [legal@protofire.io](mailto:legal@protofire.io).
 
-By using our website, you consent to storage and access to cookies and other technologies on your device, in accordance with this Cookie Policy.
+## **2\. What cookies and similar technologies are**
 
-## **What are cookies?**
+Cookies are small text files that a website stores on your device. Similar technologies, such as browser storage, let a website keep information in your browser. We use both to make the App work and, with your consent where required, to understand how it is used.
 
-Cookies are a feature of web browser software that allows web servers to recognize the computer or device used to access a website. A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don't have to keep re-entering them whenever you come back to the site or browse from one page to another.
+## **3\. What we use**
 
-## **What are the different types of cookies?**
+We use the following technologies:
 
-A cookie can be classified by its lifespan and the domain to which it belongs.
+**Strictly necessary.** We use these without consent. They remember your App settings and your cookie choices, and keep your wallet connection working. Our wallet connection provider, WalletConnect, stores your connection session in your browser’s storage (not in cookies), where it stays until you clear your browser data or the session is removed. WalletConnect may also receive technical data, such as your IP address and session information, and handle it under its own policy. 
 
-By lifespan, a cookie is either a:
+**Analytics.** We use Google Analytics (via Google Tag Manager) to understand how the App is used. It receives the page URL, the Safe Account address, your wallet address and wallet type, the network, device type, App version and the events you trigger in the App. For Safe Apps it also receives the app name, method and SDK version. We use it only with your consent where the law requires it. Google Analytics cookies are kept for up to 14 months. 
 
-1. session cookie which is erased when the user closes the browser; or  
-2. persistent cookie which is saved to the hard drive and remains on the user's computer/device for a pre-defined period of time. As for the domain to which it belongs, cookies are either:  
-1. first-party cookies which are set by the web server of the visited page and share the same domain (i.e. set by us); or  
-2. third-party cookies stored by a different domain to the visited page's domain.
+**Error monitoring.** We use Sentry to detect and fix errors. It receives error details and the page URL. We use it only with your consent where the law requires it. Error data is kept for up to 90 days. 
 
-## **What cookies do we use and why?**
+**Advertising and targeting.** We may introduce advertising or targeting technologies, for example to personalize offers shown in the App, but only with your consent. 
 
-We do not use cookies set by ourselves via our web developers (first-party cookies). We only have those set by others (third-party cookies).
+**Third-party features.** The embedded swap and bridge feature (LI.FI widget) receives trade parameters and wallet context. This feature and the Safe Apps you open in the App may set their own cookies, which are governed by their own policies. 
 
-Cookies are also sometimes classified by reference to their purpose. We use the following cookies for the following purposes:
+**Support form.** Our support form is provided by a third-party service provider and may be protected by an anti-abuse service. These providers may set their own cookies and receive device and browser signals, governed by their own privacy and cookie policies. 
 
-1. Analytical/performance cookies: They allow us to recognize and count the number of visitors and to see how visitors move around our website when they are using it, as well as dates and times they visit. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.  
-2. Targeting cookies: These cookies record your visit to our website, the pages you have visited and the links you have followed, as well as time spent on our website, and the websites visited just before and just after our website. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+## **4\. Your choices**
 
-In general, we use cookies and other technologies (such as web server logs) on our website to enhance your experience and to collect information about how our website is used.
+When you first open the App, we ask whether you accept analytics and error-monitoring cookies and similar technologies (and, if we introduce them, advertising or targeting technologies). We do not set them until you accept. You can accept or decline with equal ease, and declining does not affect your use of the App.
 
-## **Other Technologies**
+You can change or withdraw your choice at any time through the cookie settings in the App. Withdrawing consent does not affect processing carried out before withdrawal. You can also block or delete cookies and browser storage in your browser settings, but parts of the App may then not work as expected. 
 
-We may allow others to provide analytics services and serve advertisements on our behalf. In addition to the uses of cookies described above, these entities may use other methods, such as the technologies described below, to collect information about your use of our website and other websites and online services.
+## **5\. Changes**
 
-Pixels tags. Pixel tags (which are also called clear GIFs, web beacons, or pixels), are small pieces of code that can be embedded on websites and emails. Pixels tags may be used to learn how you interact with our website pages and emails, and this information helps us, and our partners provide you with a more tailored experience.
+We may update this Cookie Policy from time to time. The updated version will be published with a new “Last updated” date. 
 
-Device Identifiers. A device identifier is a unique label that can be used to identify a mobile device. Device identifiers may be used to track, analyze and improve the performance of the website and ads delivered.
-
-## **What data is collected by cookies and other technologies on our website?**
-
-### **This information may include:**
-
-1. the IP and logical address of the server you are using (but the last digits are anonymized so we cannot identify you).  
-2. the top level domain name from which you access the internet (for example .ie, .com, etc)  
-3. the type of browser you are using,  
-4. the date and time you access our website  
-5. the internet address linking to our website.
-
-### **This website also uses cookies to:**
-
-1. remember you and your actions while navigating between pages;  
-2. remember if you have agreed (or not) to our use of cookies on our website;  
-3. ensure the security of the website;  
-4. monitor and improve the performance of servers hosting the site;  
-5. distinguish users and sessions;  
-6. Improving the speed of the site when you access content repeatedly;  
-7. determine new sessions and visits;  
-8. allow us to store any customization preferences where our website allows this
-
-We may also use other services, such as [**Google Analytics**](https://www.google.com/intl/en/analytics/#?modal_active=none) or other third-party cookies, to assist with analyzing performance on our website. As part of providing these services, these service providers may use cookies and the technologies described below to collect and store information about your device, such as time of visit, pages visited, time spent on each page of our website, links clicked and conversion information, IP address, browser, mobile network information, and type of operating system used.
-
-## **Revisions to this Cookie Policy**
-
-On this website, you can always view the latest version of our Privacy Policy and our Cookie Policy. We may modify this Cookie Policy from time to time. If we make changes to this Cookie Policy, we will provide notice of such changes, such as by sending an email notification, providing notice through our website or updating the ‘Last Updated’ date at the beginning of this Cookie Policy. The amended Cookie Policy will be effective immediately after the date it is posted. By continuing to access or use our website after the effective date, you confirm your acceptance of the revised Cookie Policy and all of the terms incorporated therein by reference. We encourage you to review our Privacy Policy and our Cookie Policy whenever you access or use our website to stay informed about our information practices and the choices available to you.
-
-If you do not accept changes which are made to this Cookie Policy, or take any measures described above to opt-out by removing or rejecting cookies, you may continue to use this website but accept that it may not display and/or function as intended by us. Any social media channels connected to us and third party applications will be subject to the privacy and cookie policies and practices of the relevant platform providers which, unless otherwise indicated, are not affiliated or associated with us Your exercise of any rights to opt-out may also impact how our information and content is displayed and/or accessible to you on this website and on other websites.
